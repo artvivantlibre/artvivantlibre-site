@@ -1,0 +1,10 @@
+- name: Aceuil
+  link: /
+- name: Infos
+  link: /infos
+- name: Documents et outils
+  link: /documents
+- name: Manifestes
+  link: /manifestes
+- name: Rejoignez-nous
+  link: /rejoignez
