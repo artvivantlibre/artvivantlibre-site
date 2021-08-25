@@ -2,7 +2,7 @@
 title:               Art Vivant Libre
 description:         Appel aux artistes et organisateurs de spectacle vivant
 url:                 https://artvivantlibre.github.io
-baseurl:             artvivantlibre
+baseurl:             artvivantlibre-site
 permalink:           pretty
 
 # About/contact
