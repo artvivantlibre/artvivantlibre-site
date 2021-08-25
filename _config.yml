@@ -1,7 +1,7 @@
 # Setup
 title:               Art Vivant Libre
 description:         Appel aux artistes et organisateurs de spectacle vivant
-url:
+url:                 https://artvivantlibre.github.io/artvivantlibre-site
 baseurl:
 permalink:           pretty
 
