@@ -10,7 +10,7 @@
 
   <nav class="sidebar-nav">
     {% for item in site.data.menu %}
-      <a class="sidebar-nav-item{% if page.url == item.link %} active{% endif %}" href="{{ item.link | absolute_url }}">
+      <a class="sidebar-nav-item{% if page.url == item.link %} active{% endif %}" href="{{ item.link }}">
         {{ item.name }}
       </a>
     {% endfor %}
