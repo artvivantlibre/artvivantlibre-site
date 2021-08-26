@@ -18,10 +18,14 @@ Pour commencer à discuter :
 
 1. Installer Aether (vous pouvez le téléchargez sur [le site officiel](https://
 getaether.net/download/)).
+1. Créer votre compte, aucune information personnelle n’est requise.
+1. Rechercher artvivantlibre dans les communautés.
 
-2. Créer votre compte, aucune information personnelle n’est requise.
+Note: pour des raisons de sécurité, les communautés créées il y a moins de 30 jours sont cachées. Pour les voir:
 
-3. Rechercher artvivantlibre dans les communautés.
+1. Allez sur l’onglet « Search »
+1. Recherchez « artvivantlibre »
+1. Cliquez sur « Show non-SFW results »
 
 Pour des discussions plus immédiates, retrouvons-nous sur Signal :
 
