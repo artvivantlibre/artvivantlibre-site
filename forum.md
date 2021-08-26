@@ -23,6 +23,12 @@ getaether.net/download/)).
 
 3. Rechercher artvivantlibre dans les communautés.
 
+Note: pour des raisons de sécurité, les communautés créées il y a moins de 30 jours sont cachées. Pour les voir:
+
+1. Allez sur l’onglet « Search »
+2. Recherchez « artvivantlibre »
+3. Cliquez sur « Show non-SFW results »
+
 Pour des discussions plus immédiates, retrouvons-nous sur Signal :
 
 [Groupe Signal - Art vivant libre](https://signal.group/#CjQKIAqM-1cdiciqAtxtcH
