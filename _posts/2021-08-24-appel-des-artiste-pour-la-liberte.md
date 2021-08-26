@@ -1,5 +1,6 @@
 ---
 layout: post
+category: manifestes
 title: Appel des artiste pour la liberté!
 date: 2021-08-24
 author: Art Vivant Libre

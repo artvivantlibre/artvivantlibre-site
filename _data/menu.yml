@@ -1,5 +1,7 @@
 - name: Aceuil
   link: /
+- name: Actualités
+  link: /actualites
 #- name: Infos
   #link: /infos
 #- name: Documents et outils
