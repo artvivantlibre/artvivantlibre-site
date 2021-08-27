@@ -8,7 +8,7 @@
   #link: /documents
 - name: Manifestes
   link: /manifestes
-- name: Forum
-  link: /forum
+#- name: Forum
+# link: /forum
 - name: Adhérer
   link: /adherer
