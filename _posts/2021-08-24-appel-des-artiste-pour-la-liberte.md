@@ -2,7 +2,6 @@
 layout: post
 category: manifestes
 title: Appel des artiste pour la liberté!
-date: 2021-08-24
 author: Art Vivant Libre
 excerpt: "L’art s’est transformé en une idéologie culturelle au service d’un
 seul dieu : le profit. L’art institutionnel, l’industrie de masse, le
