@@ -61,4 +61,4 @@ Toutes les idées et initiatives constructives sont attendues.
 
 ### LIBERTÉ --- VERITÉ --- SOLIDARITÉ
 
-## [Adérer au collectif!](adherer)
+## [Adhérez au collectif !](adherer)
