@@ -90,3 +90,5 @@ L’art provoque l’interrogation, dérange la routine, pulvérise les dogmes. 
 ----
 
 **L’art est un acte de résistance !**
+
+## [Signez cette pétition](https://www.leslignesbougent.org/petitions/signez-le-manifeste-des-artistes-libres-3227/)
